@@ -1,4 +1,4 @@
-# <img src="https://doy2mn9upadnk.cloudfront.net/uploads/default/original/4X/0/e/e/0eeeb19633422b1241f4306419a0f15f39d58de9.png" alt="ROBLOX" width="30"/> rojs (docs)
+# <img src="https://doy2mn9upadnk.cloudfront.net/uploads/default/original/4X/0/e/e/0eeeb19633422b1241f4306419a0f15f39d58de9.png" alt="ROBLOX" width="30"/> Welcome!
 
 An [ROBLOX](https://roblox.com) package devileried for you to make your hard work a little bit easier.
 ## Installion and Usage
