@@ -7,4 +7,4 @@ const rojs = require('rojs')
 console.log(rojs.GetUsernameById(1)) // Returns "ROBLOX"
 ```
 ## Questions or issues?
-Ask them right here:
+Ask them right here: https://github.com/ro-js/rojs/issues
