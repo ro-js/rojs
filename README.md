@@ -1,3 +1,6 @@
 
 # Welcome!
-An ROBLOX package devileried for you to make your hard work a little bit easier.
+ro.js is fast-develiried package for Roblox written in JavaScript and Node.JS which gonna try help you programming your projects.
+```bash
+npm i @zlures/rojs
+```
