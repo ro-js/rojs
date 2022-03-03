@@ -4,4 +4,4 @@ function logs(user) {
   console.log(user)
 }
 
-rojs.GetIDByUsername(1, logs)
+rojs.GetIDByUsername('ROBLOX', logs)
