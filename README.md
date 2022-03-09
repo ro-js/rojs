@@ -28,7 +28,7 @@ Ask them right here: https://github.com/ro-js/rojs/issues
 ------------------
 <div align="center">
   <h1>made w/ love 4u</h1>
-  <img src="https://avatars.githubusercontent.com/u/81084648?s=48&v=4"><!--avatars github user content ate-->
+  <img height="50" src="https://avatars.githubusercontent.com/u/81084648?s=48&v=4"> <img height="50" src="https://avatars.githubusercontent.com/u/71515418?v=4">
 </div>
 
 <!-- node.js is stupid -->
