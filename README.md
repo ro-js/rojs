@@ -1,7 +1,7 @@
 # <img src="https://doy2mn9upadnk.cloudfront.net/uploads/default/original/4X/0/e/e/0eeeb19633422b1241f4306419a0f15f39d58de9.png" alt="ROBLOX" width="30"/> ro-js
 An [ROBLOX](https://roblox.com) package devileried for you to make your hard work a little bit easier.
 
-<br><img src="https://img.shields.io/bundlephobia/min/@rojs/ro-js?label=size"> <img src="https://img.shields.io/npm/dw/@rojs/ro-js"> <img src="https://img.shields.io/npm/l/@rojs/ro-js">
+<br><img src="https://img.shields.io/bundlephobia/min/@rojs/ro-js?label=size"> <img src="https://img.shields.io/npm/dw/@rojs/ro-js"> <img src="https://img.shields.io/npm/l/@rojs/ro-js"> <a href="https://www.patreon.com/vladascorner"><img height='20' src="https://github.githubassets.com/images/modules/site/icons/funding_platforms/patreon.svg"></a>
 ## Installion and Usage
 Installing with NPM:
 ```bash
